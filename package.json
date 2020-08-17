@@ -1,17 +1,17 @@
 {
-  "name": "SequelizeProject",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "Juan Ruiz",
-  "license": "ISC",
-  "dependencies": {
-    "sequelize": "^6.3.4",
-    "sequelize-cli": "^6.2.0",
-    "sqlite3": "^5.0.0"
-  }
+    "name": "sqlite3-sequelize-crud",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Juan Ruiz",
+    "license": "ISC",
+    "dependencies": {
+        "sequelize": "^6.3.4",
+        "sequelize-cli": "^6.2.0",
+        "sqlite3": "^5.0.0"
+    }
 }
